@@ -1,0 +1,28 @@
+OBLIGATORIO: Usar programación orientada a objetos para modelar jugadores, enemigos, balas y demás entidades.
+
+OBLIGATORIO: Implementar herencia entre clases (por ejemplo, distintos tipos de enemigos).
+
+OPCIONAL: Implementar polimorfismo para métodos de dibujo o movimiento.
+
+OBLIGATORIO: No usar elementos no vistos en clase, especialmente vector, list, queue, etc.
+
+OBLIGATORIO: Incorporar una pantalla de bienvenida con intrucciones y Nombre
+
+
+
+SUGERENCIA: Controlar el borrado y redibujado de objetos para evitar parpadeos, sin usar clrscr().
+
+¡¡ Deberán presentarlo en un repositorio git desde el inicio del proyecto (sin excepción) !!
+
+
+
+Les recomendamos entender cómo hacer un seguimiento de git antes de empezar a trabajar.
+
+No deben generar el repositorio solo para subir el código final, sino ir trabajando con él desde el inicio para poder mostrar la evolución.
+
+
+
+Cuando tengan el repositorio listo para entregar, si configuran el proyecto como privado, agreguen a los siguientes usuarios como colaboradores:
+
+Alejandro: alefortvi@gmail.com
+Diego: diegocantelmi82@gmail.com
