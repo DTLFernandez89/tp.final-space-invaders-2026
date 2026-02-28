@@ -1,0 +1,26 @@
+La nave jugador se mueve con las teclas:
+
+a: moverse a la izquierda
+d: moverse a la derecha
+
+Disparar con SPACEBAR.
+
+Los enemigos se desplazan en bloque, alternando dirección al alcanzar los límites y bajando lentamente.
+
+Cada enemigo tiene un tipo definido por color y forma, que puede indicar resistencia distinta.
+
+Los enemigos disparan de manera aleatoria.
+
+Cada impacto del jugador en un enemigo genera puntos.
+
+Cada impacto de un enemigo en el jugador disminuye vidas y genera un efecto visual simple (parpadeo).
+
+
+
+El juego termina si:
+
+Se pierden todas las vidas del jugador.
+
+Un enemigo llega a la línea del jugador.
+
+Se eliminan todos los enemigos (victoria).
